@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22cd3773-dcbf-4320-94a9-9e95a66dd103": {
+      "ProjectGuid": "22cd3773-dcbf-4320-94a9-9e95a66dd103",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 1",
+      "ColorIndex": 0
+    },
+    "345a61dd-80db-47bf-b7e6-727b2f247b75": {
+      "ProjectGuid": "345a61dd-80db-47bf-b7e6-727b2f247b75",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 2",
+      "ColorIndex": 1
+    },
+    "9e39faf6-0f32-4f3d-962b-4806fd6c3bc0": {
+      "ProjectGuid": "9e39faf6-0f32-4f3d-962b-4806fd6c3bc0",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 3",
+      "ColorIndex": 2
+    },
+    "49ad7203-7f72-40b3-b1d9-db68aaaf4e17": {
+      "ProjectGuid": "49ad7203-7f72-40b3-b1d9-db68aaaf4e17",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 4",
+      "ColorIndex": 3
+    },
+    "8efec369-e97f-4a34-9e44-aaab9a66b629": {
+      "ProjectGuid": "8efec369-e97f-4a34-9e44-aaab9a66b629",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 5",
+      "ColorIndex": 4
+    },
+    "87a17480-97ae-4583-8968-8b8631cd2cd1": {
+      "ProjectGuid": "87a17480-97ae-4583-8968-8b8631cd2cd1",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 6",
+      "ColorIndex": 5
+    },
+    "2ce07d14-1951-413d-ac47-a544c003bd58": {
+      "ProjectGuid": "2ce07d14-1951-413d-ac47-a544c003bd58",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 7",
+      "ColorIndex": 6
+    },
+    "a15a8da5-fd71-4815-9de8-4ef61e11256d": {
+      "ProjectGuid": "a15a8da5-fd71-4815-9de8-4ef61e11256d",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 8",
+      "ColorIndex": 7
+    },
+    "313ec6f2-6c8a-41e7-a82c-c2a120bdc228": {
+      "ProjectGuid": "313ec6f2-6c8a-41e7-a82c-c2a120bdc228",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 9",
+      "ColorIndex": 8
+    },
+    "eaf9dc5f-c3fa-4fc3-aa80-27b7ba13467c": {
+      "ProjectGuid": "eaf9dc5f-c3fa-4fc3-aa80-27b7ba13467c",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 10",
+      "ColorIndex": 9
+    },
+    "35d74961-db98-4b1b-81f2-6fc224902f71": {
+      "ProjectGuid": "35d74961-db98-4b1b-81f2-6fc224902f71",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 11",
+      "ColorIndex": 10
+    },
+    "c27d316f-4f82-4e93-ba4d-244969451e68": {
+      "ProjectGuid": "c27d316f-4f82-4e93-ba4d-244969451e68",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 12",
+      "ColorIndex": 11
+    },
+    "8e7e526e-ff82-472d-a765-5ef36d450015": {
+      "ProjectGuid": "8e7e526e-ff82-472d-a765-5ef36d450015",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 13",
+      "ColorIndex": 12
+    },
+    "fb34b34d-2809-43d1-9a58-980035b41181": {
+      "ProjectGuid": "fb34b34d-2809-43d1-9a58-980035b41181",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 14",
+      "ColorIndex": 13
+    },
+    "ae7f36fa-80da-4e5d-be7e-fe20b50d884f": {
+      "ProjectGuid": "ae7f36fa-80da-4e5d-be7e-fe20b50d884f",
+      "DisplayName": "Ev Tapsirigi 6 -- Task 15",
+      "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 15
+}
