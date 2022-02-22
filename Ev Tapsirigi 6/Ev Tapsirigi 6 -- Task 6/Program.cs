@@ -24,11 +24,11 @@ namespace Ev_Tapsirigi_6____Task_6
 
             if (index == index2)
             {
-                Console.WriteLine("Ishdedi");
+                Console.WriteLine("Indexler Iki Terefdende Eynidir");
             }
             else
             {
-                Console.WriteLine("Ishdemdi");
+                Console.WriteLine("Indexler Iki Terefdende Eyni Deyildir");
             }
         }
     }
