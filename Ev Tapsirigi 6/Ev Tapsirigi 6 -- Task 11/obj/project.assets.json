@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 11\\Ev Tapsirigi 6 -- Task 11.csproj",
+      "projectUniqueName": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 11\\Ev Tapsirigi 6 -- Task 11.csproj",
       "projectName": "Ev Tapsirigi 6 -- Task 11",
-      "projectPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 11\\Ev Tapsirigi 6 -- Task 11.csproj",
+      "projectPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 11\\Ev Tapsirigi 6 -- Task 11.csproj",
       "packagesPath": "C:\\Users\\mamma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 11\\obj\\",
+      "outputPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual SDK\\NuGetPackages"

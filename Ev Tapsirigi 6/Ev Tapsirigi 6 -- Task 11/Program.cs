@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Ev_Tapsirigi_6____Task_11
 /*Verilmish metinde butun {a} simvollarinin qabagina {b} simvolunu ve
@@ -8,7 +9,6 @@ eyni zamandan butun {b} simvollarinin qabagina {a} simvolunu yaz.*/
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }

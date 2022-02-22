@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj": {}
+    "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj": {
+    "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj",
+        "projectUniqueName": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj",
         "projectName": "Ev Tapsirigi 6 -- Task 7",
-        "projectPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj",
+        "projectPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 7\\Ev Tapsirigi 6 -- Task 7.csproj",
         "packagesPath": "C:\\Users\\mamma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Abbas's Code\\Ev Tapsirigi 6 -- Task 1\\Ev Tapsirigi 6 -- Task 7\\obj\\",
+        "outputPath": "C:\\Users\\mamma\\OneDrive\\Masaüstü\\Ev-Tapsirigi-6\\Ev Tapsirigi 6\\Ev Tapsirigi 6 -- Task 7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual SDK\\NuGetPackages"
